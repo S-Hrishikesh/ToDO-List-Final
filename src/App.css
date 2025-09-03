@@ -1,0 +1,4 @@
+body, .to-do-List {
+  position: relative;
+  min-height: 100vh;
+}
